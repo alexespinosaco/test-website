@@ -12,5 +12,12 @@
     "title": "test-website",
     "section": "",
     "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2\n\n2 + 2 \n\n[1] 4\n\n\nThis is a test!\nThis is another test."
+  },
+  {
+    "objectID": "otro.html",
+    "href": "otro.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n\n\nThis is a test!"
   }
 ]
