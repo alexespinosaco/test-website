@@ -1,11 +1,5 @@
 ---
-title: "About"
+title: "Otro"
 ---
 
-About this site
-
-<!-- ```{r} -->
-<!-- 1 + 1 -->
-<!-- ``` -->
-
-This is a test!
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent scelerisque sodales nibh, ac vulputate eros sollicitudin id. Mauris quis orci felis. Praesent semper fermentum metus, in viverra erat molestie vel. Fusce pellentesque in lectus at sagittis. Aliquam erat volutpat. Praesent facilisis mollis justo ut blandit. Duis tincidunt erat turpis, nec vehicula turpis elementum id. Vestibulum luctus venenatis tortor. Cras dictum iaculis leo ut commodo. Etiam mattis nibh ut erat gravida convallis. Duis eget sapien in dolor porta iaculis vitae at justo. Donec ornare finibus nunc bibendum consequat. Donec sodales volutpat nisi, nec finibus lorem dignissim eget. Phasellus faucibus neque sit amet varius convallis. Nam eleifend euismod enim quis fermentum. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.

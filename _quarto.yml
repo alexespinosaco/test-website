@@ -11,7 +11,8 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
-      - otro.qmd
+      - href: otro.qmd
+        text: Otro
 
 format:
   html:
