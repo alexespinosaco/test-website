@@ -1,10 +1,10 @@
 [
   {
-    "objectID": "otro.html",
-    "href": "otro.html",
-    "title": "Otro",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
     "section": "",
-    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent scelerisque sodales nibh, ac vulputate eros sollicitudin id. Mauris quis orci felis. Praesent semper fermentum metus, in viverra erat molestie vel. Fusce pellentesque in lectus at sagittis. Aliquam erat volutpat. Praesent facilisis mollis justo ut blandit. Duis tincidunt erat turpis, nec vehicula turpis elementum id. Vestibulum luctus venenatis tortor. Cras dictum iaculis leo ut commodo. Etiam mattis nibh ut erat gravida convallis. Duis eget sapien in dolor porta iaculis vitae at justo. Donec ornare finibus nunc bibendum consequat. Donec sodales volutpat nisi, nec finibus lorem dignissim eget. Phasellus faucibus neque sit amet varius convallis. Nam eleifend euismod enim quis fermentum. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos."
+    "text": "About this site\n\n\n\nThis is a test!"
   },
   {
     "objectID": "index.html",
@@ -14,10 +14,10 @@
     "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2\n\n2 + 2 \n\n[1] 4\n\n\nThis is a test!\nThis is another test."
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "otro.html",
+    "href": "otro.html",
+    "title": "Otro",
     "section": "",
-    "text": "About this site\n\n\n\nThis is a test!"
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent scelerisque sodales nibh, ac vulputate eros sollicitudin id. Mauris quis orci felis. Praesent semper fermentum metus, in viverra erat molestie vel. Fusce pellentesque in lectus at sagittis. Aliquam erat volutpat. Praesent facilisis mollis justo ut blandit. Duis tincidunt erat turpis, nec vehicula turpis elementum id. Vestibulum luctus venenatis tortor. Cras dictum iaculis leo ut commodo. Etiam mattis nibh ut erat gravida convallis. Duis eget sapien in dolor porta iaculis vitae at justo. Donec ornare finibus nunc bibendum consequat. Donec sodales volutpat nisi, nec finibus lorem dignissim eget. Phasellus faucibus neque sit amet varius convallis. Nam eleifend euismod enim quis fermentum. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos."
   }
 ]
